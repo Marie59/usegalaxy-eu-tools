@@ -653,6 +653,8 @@ tools:
 - name: unzip
   owner: imgteam
   revisions:
+  - 28d6129b2901
+  - 4634764e6e2b
   - 57f0914ddb7b
   tool_panel_section_label: Collection Operations
 - name: bioformats2raw
