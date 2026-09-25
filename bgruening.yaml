@@ -639,6 +639,10 @@ tools:
     owner: bgruening
     tool_panel_section_label: Machine Learning
 
+  - name: tabicl
+    owner: bgruening
+    tool_panel_section_label: Machine Learning
+
   - name: tabpfn
     owner: bgruening
     tool_panel_section_label: Machine Learning
@@ -815,6 +819,14 @@ tools:
 
 
 
+  - name: ketos_train
+    owner: bgruening
+    tool_panel_section_label: Other Tools
+
+  - name: ketos_compile
+    owner: bgruening
+    tool_panel_section_label: Other Tools
+
   - name: pynxtools_peak_finding
     owner: bgruening
     tool_panel_section_label: Other Tools
@@ -844,6 +856,10 @@ tools:
 # SINGLE-CELL
 
   - name: 10x_bamtofastq
+    owner: bgruening
+    tool_panel_section_label: Single-cell
+
+  - name: doubletfinder
     owner: bgruening
     tool_panel_section_label: Single-cell
 
